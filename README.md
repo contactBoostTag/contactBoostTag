@@ -5,7 +5,6 @@
 ### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-<!--END_SECTION:activity-->
 
 **contactBoostTag/contactBoostTag** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
