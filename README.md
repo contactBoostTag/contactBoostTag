@@ -1,5 +1,7 @@
 ### Hi there 👋
 
+<img src="An enthusiastic engineer.png" alt="banner" />
+
 ### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
