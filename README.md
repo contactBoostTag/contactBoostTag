@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-<img src="An enthusiastic engineer.png" alt="banner" />
+<img src="https://raw.githubusercontent.com/contactBoostTag/contactBoostTag/master/An%20enthusiastic%20engineer.png" alt="banner" />
 
 ### :zap: Recent Activity
 
