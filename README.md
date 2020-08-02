@@ -1,24 +1,24 @@
-1. 🎉 Merged PR [#2](https://github.com//contactBoostTag/MyApplication/pull/2) in [contactBoostTag/MyApplication](https://github.com//contactBoostTag/MyApplication)
+### Hi there 👋
 
-2. 💪 Opened PR [#2](https://github.com//contactBoostTag/MyApplication/pull/2) in [contactBoostTag/MyApplication](https://github.com//contactBoostTag/MyApplication)
+<img src="https://raw.githubusercontent.com/contactBoostTag/contactBoostTag/master/An%20enthusiastic%20engineer.png" alt="banner" />
 
-3. 🎉 Merged PR [#1](https://github.com//contactBoostTag/MyApplication/pull/1) in [contactBoostTag/MyApplication](https://github.com//contactBoostTag/MyApplication)
 
-4. 💪 Opened PR [#1](https://github.com//contactBoostTag/MyApplication/pull/1) in [contactBoostTag/MyApplication](https://github.com//contactBoostTag/MyApplication)
+**contactBoostTag/contactBoostTag** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-5. undefined
+Here are some ideas to get you started:
 
-6. undefined
+- 🔭 I’m currently working on ...
+- 🌱 I’m currently learning ...
+- 👯 I’m looking to collaborate on ...
+- 🤔 I’m looking for help with ...
+- 💬 Ask me about ...
+- 📫 How to reach me: ...
+- 😄 Pronouns: ...
+- ⚡ Fun fact: ...
 
-7. undefined
-8. undefined
-9. undefined
-10. undefined
-11. undefined
-12. undefined
-13. undefined
-14. undefined
+---
+<!--START_SECTION:waka-->
+<!--END_SECTION:waka-->
 
-15. undefined
-16. undefined
-17. undefined
+### :zap: Recent Activity
+<!--START_SECTION:activity--> 
