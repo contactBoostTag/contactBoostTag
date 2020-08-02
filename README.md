@@ -21,4 +21,8 @@ Here are some ideas to get you started:
 <!--END_SECTION:waka-->
 
 ### :zap: Recent Activity
+
 <!--START_SECTION:activity--> 
+
+---
+
