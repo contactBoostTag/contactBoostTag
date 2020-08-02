@@ -19,7 +19,7 @@ Here are some ideas to get you started:
 <!--START_SECTION:waka-->
 <!--END_SECTION:waka-->
 
-<!--START_SECTION:activity-->
+<!--START_SECTION:activity--> 
 1. 🎉 Merged PR [#2](https://github.com//contactBoostTag/MyApplication/pull/2) in [contactBoostTag/MyApplication](https://github.com//contactBoostTag/MyApplication)
 2. 💪 Opened PR [#2](https://github.com//contactBoostTag/MyApplication/pull/2) in [contactBoostTag/MyApplication](https://github.com//contactBoostTag/MyApplication)
 3. 🎉 Merged PR [#1](https://github.com//contactBoostTag/MyApplication/pull/1) in [contactBoostTag/MyApplication](https://github.com//contactBoostTag/MyApplication)
