@@ -19,6 +19,8 @@ Here are some ideas to get you started:
 <!--START_SECTION:waka-->
 <!--END_SECTION:waka-->
 
+### :zap: Recent Activity
+
 <!--START_SECTION:activity-->
 1. 🗣 Commented on [#1](https://github.com//romellfudi/FudiNFC/issues/1) in [romellfudi/FudiNFC](https://github.com//romellfudi/FudiNFC)
 2. 🗣 Commented on [#54](https://github.com//romellfudi/VoIpUSSD/issues/54) in [romellfudi/VoIpUSSD](https://github.com//romellfudi/VoIpUSSD)
