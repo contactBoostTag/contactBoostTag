@@ -3,6 +3,81 @@
 
 ---
 <!--START_SECTION:waka-->
+![Profile Views](http://img.shields.io/badge/Profile%20Views-459-blue)
+
+**🐱 My GitHub Data** 
+
+> 🏆 73 Contributions in year 2020
+ > 
+> 📦 Used 0 Bytes in GitHub's Storage 
+ > 
+> 🚫 Not opted to Hire
+ > 
+> 📜 6 Public Repositories 
+ > 
+> 🔑 0 Owned Private Repository 
+ > 
+**I'm an early 🐤** 
+
+```text
+🌞 Morning    32 commits     ███████░░░░░░░░░░░░░░░░░░   28.83% 
+🌆 Daytime    36 commits     ████████░░░░░░░░░░░░░░░░░   32.43% 
+🌃 Evening    23 commits     █████░░░░░░░░░░░░░░░░░░░░   20.72% 
+🌙 Night      20 commits     ████░░░░░░░░░░░░░░░░░░░░░   18.02%
+
+```
+📅 **I'm Most Productive on Sundays** 
+
+```text
+Monday       10 commits     ██░░░░░░░░░░░░░░░░░░░░░░░   9.01% 
+Tuesday      22 commits     █████░░░░░░░░░░░░░░░░░░░░   19.82% 
+Wednesday    13 commits     ███░░░░░░░░░░░░░░░░░░░░░░   11.71% 
+Thursday     1 commits      ░░░░░░░░░░░░░░░░░░░░░░░░░   0.9% 
+Friday       0 commits      ░░░░░░░░░░░░░░░░░░░░░░░░░   0.0% 
+Saturday     30 commits     ██████░░░░░░░░░░░░░░░░░░░   27.03% 
+Sunday       35 commits     ████████░░░░░░░░░░░░░░░░░   31.53%
+
+```
+
+
+📊 **This week I spent my time on** 
+
+```text
+⌚︎ Timezone: America/Lima
+
+💬 Languages: 
+No Activity tracked this Week
+
+🔥 Editors: 
+No Activity tracked this Week
+
+🐱‍💻 Projects: 
+No Activity tracked this Week
+
+💻 Operating Systems: 
+No Activity tracked this Week
+
+```
+
+**I mostly code in Java** 
+
+```text
+Java         28 repos       █████████████████░░░░░░░░   68.29% 
+Kotlin       6 repos        ███░░░░░░░░░░░░░░░░░░░░░░   14.63% 
+HTML         2 repos        █░░░░░░░░░░░░░░░░░░░░░░░░   4.88% 
+JavaScript   2 repos        █░░░░░░░░░░░░░░░░░░░░░░░░   4.88% 
+Dart         1 repos        ░░░░░░░░░░░░░░░░░░░░░░░░░   2.44% 
+CSS          1 repos        ░░░░░░░░░░░░░░░░░░░░░░░░░   2.44% 
+Python       1 repos        ░░░░░░░░░░░░░░░░░░░░░░░░░   2.44%
+
+```
+
+
+**Timeline**
+
+![Chart not found](https://github.com/contactBoostTag/contactBoostTag/blob/master/charts/bar_graph.png) 
+
+
 <!--END_SECTION:waka-->
 
 ### :zap: Recent Activity
