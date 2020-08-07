@@ -13,7 +13,7 @@ jobs:
     steps:
       - uses: anmol098/waka-readme-stats@master #PLEASE USE MASTER BRANCH
         with:
-          WAKATIME_API_KEY: "205fefeb-b760-49b0-bc3e-dd70562ff820"
-          GH_TOKEN: "9699d33508146d528ebf1e6d186c549ceee70328"
+          WAKATIME_API_KEY: ${{ secrets.WAKATIME_API_KEY_RF }}
+          GH_TOKEN: ${{ secrets.GH_TOKEN_RF }}
           SHOW_LINES_OF_CODE: "True"
           SHOW_PROFILE_VIEWS: "True"
