@@ -2,6 +2,14 @@
 <img src="https://raw.githubusercontent.com/contactBoostTag/contactBoostTag/master/An%20enthusiastic%20engineer.png" alt="banner" />
 
 ---
+
+<p align='center'>
+  <a href="#"><img src="https://github-readme-stats.vercel.app/api?username=contactBoostTag&show_icons=true&count_private=true&theme=dark" width="350" height="150"></a>&nbsp;&nbsp;
+  <a href="#"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=contactBoostTag&layout=compact&theme=dark" width="350" height="150"></a>
+  
+</p>
+
+---
 <!--START_SECTION:waka-->
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-656-blue)
 
