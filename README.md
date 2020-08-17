@@ -8,23 +8,23 @@
 
 ---
 <!--START_SECTION:waka-->
-![Profile Views](http://img.shields.io/badge/Profile%20Views-685-blue)
+![Profile Views](http://img.shields.io/badge/Profile%20Views-268-blue)
 
-![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I've%20written-67764%20Lines%20of%20code-blue)
+![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-67764%20Lines%20of%20code-blue)
 
-**🐱 My GitHub Data** 
+**🐱 My Github Data** 
 
-> 🏆 96 Contributions in year 2020
+> 🏆 96 Contributions in the year 2020
  > 
-> 📦 Used 0 Bytes in GitHub's Storage 
+> 📦 0 Bytes Used in Github's Storage 
  > 
-> 🚫 Not opted to Hire
+> 🚫 Not Opted to Hire
  > 
-> 📜 6 Public Repositories 
+> 📜 6 Public repositories
  > 
-> 🔑 0 Owned Private Repository 
+> 🔑 0 Private repository 
  > 
-**I'm a night 🦉** 
+**I'm a Night 🦉** 
 
 ```text
 🌞 Morning    34 commits     ██████░░░░░░░░░░░░░░░░░░░   25.56% 
@@ -33,7 +33,7 @@
 🌙 Night      30 commits     █████░░░░░░░░░░░░░░░░░░░░   22.56%
 
 ```
-📅 **I'm Most Productive on Sundays** 
+📅 **I'm Most Productive on Sunday** 
 
 ```text
 Monday       2 commits      ░░░░░░░░░░░░░░░░░░░░░░░░░   1.5% 
@@ -47,26 +47,26 @@ Sunday       37 commits     ███████░░░░░░░░░░�
 ```
 
 
-📊 **This week I spent my time on** 
+📊 **This Week I Spend My Time On** 
 
 ```text
-⌚︎ Timezone: America/Lima
+⌚︎ Time zone: America/Lima
 
-💬 Languages: 
-No Activity tracked this Week
+💬 Programming Languages: 
+No Activity Tracked This Week
 
-🔥 Editors: 
-No Activity tracked this Week
+🔥 Code Editors: 
+No Activity Tracked This Week
 
 🐱‍💻 Projects: 
-No Activity tracked this Week
+No Activity Tracked This Week
 
-💻 Operating Systems: 
-No Activity tracked this Week
+💻 Operating System: 
+No Activity Tracked This Week
 
 ```
 
-**I mostly code in Java** 
+**I Mostly Code in Java** 
 
 ```text
 Java                     28 repos            █████████████████░░░░░░░░   70.0% 
