@@ -8,54 +8,54 @@
 
 ---
 <!--START_SECTION:waka-->
-![Profile Views](http://img.shields.io/badge/Profile%20Views-247-blue)
+![Profile Views](http://img.shields.io/badge/Profile%20Views-196-blue)
 
-![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-67764%20Lines%20of%20code-blue)
+![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-66454%20lines%20of%20code-blue)
 
 **🐱 My Github Data** 
 
-> 🏆 96 Contributions in the year 2020
+> 🏆 100 Contributions in the Year 2020
  > 
 > 📦 0 Bytes Used in Github's Storage 
  > 
 > 🚫 Not Opted to Hire
  > 
-> 📜 6 Public repositories
+> 📜 6 Public Repositories
  > 
-> 🔑 0 Private repository 
+> 🔑 0 Private Repository 
  > 
 **I'm a Night 🦉** 
 
 ```text
-🌞 Morning    34 commits     ██████░░░░░░░░░░░░░░░░░░░   25.56% 
-🌆 Daytime    32 commits     ██████░░░░░░░░░░░░░░░░░░░   24.06% 
-🌃 Evening    37 commits     ███████░░░░░░░░░░░░░░░░░░   27.82% 
-🌙 Night      30 commits     █████░░░░░░░░░░░░░░░░░░░░   22.56%
+🌞 Morning    34 commits     ██████░░░░░░░░░░░░░░░░░░░   25.0% 
+🌆 Daytime    32 commits     ██████░░░░░░░░░░░░░░░░░░░   23.53% 
+🌃 Evening    40 commits     ███████░░░░░░░░░░░░░░░░░░   29.41% 
+🌙 Night      30 commits     █████░░░░░░░░░░░░░░░░░░░░   22.06%
 
 ```
 📅 **I'm Most Productive on Sunday** 
 
 ```text
-Monday       2 commits      ░░░░░░░░░░░░░░░░░░░░░░░░░   1.5% 
-Tuesday      22 commits     ████░░░░░░░░░░░░░░░░░░░░░   16.54% 
-Wednesday    15 commits     ██░░░░░░░░░░░░░░░░░░░░░░░   11.28% 
-Thursday     6 commits      █░░░░░░░░░░░░░░░░░░░░░░░░   4.51% 
-Friday       17 commits     ███░░░░░░░░░░░░░░░░░░░░░░   12.78% 
-Saturday     34 commits     ██████░░░░░░░░░░░░░░░░░░░   25.56% 
-Sunday       37 commits     ███████░░░░░░░░░░░░░░░░░░   27.82%
+Monday       2 commits      ░░░░░░░░░░░░░░░░░░░░░░░░░   1.47% 
+Tuesday      22 commits     ████░░░░░░░░░░░░░░░░░░░░░   16.18% 
+Wednesday    15 commits     ██░░░░░░░░░░░░░░░░░░░░░░░   11.03% 
+Thursday     9 commits      █░░░░░░░░░░░░░░░░░░░░░░░░   6.62% 
+Friday       17 commits     ███░░░░░░░░░░░░░░░░░░░░░░   12.5% 
+Saturday     34 commits     ██████░░░░░░░░░░░░░░░░░░░   25.0% 
+Sunday       37 commits     ██████░░░░░░░░░░░░░░░░░░░   27.21%
 
 ```
 
 
-📊 **This Week I Spend My Time On** 
+📊 **This Week I Spent My Time On** 
 
 ```text
-⌚︎ Time zone: America/Lima
+⌚︎ Time Zone: America/Lima
 
 💬 Programming Languages: 
 No Activity Tracked This Week
 
-🔥 Code Editors: 
+🔥 Editors: 
 No Activity Tracked This Week
 
 🐱‍💻 Projects: 
