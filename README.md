@@ -88,10 +88,10 @@ HTML                     1 repos             ░░░░░░░░░░░�
 ### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#3](https://github.com//contactBoostTag/contactBoostTag/pull/3) in [contactBoostTag/contactBoostTag](https://github.com//contactBoostTag/contactBoostTag)
-2. 💪 Opened PR [#3](https://github.com//contactBoostTag/contactBoostTag/pull/3) in [contactBoostTag/contactBoostTag](https://github.com//contactBoostTag/contactBoostTag)
-3. 🎉 Merged PR [#2](https://github.com//contactBoostTag/contactBoostTag/pull/2) in [contactBoostTag/contactBoostTag](https://github.com//contactBoostTag/contactBoostTag)
-4. 💪 Opened PR [#2](https://github.com//contactBoostTag/contactBoostTag/pull/2) in [contactBoostTag/contactBoostTag](https://github.com//contactBoostTag/contactBoostTag)
-5. 🎉 Merged PR [#3](https://github.com//contactBoostTag/MyApplication/pull/3) in [contactBoostTag/MyApplication](https://github.com//contactBoostTag/MyApplication)
+1. 🎉 Merged PR [#3](https://github.com/contactBoostTag/contactBoostTag/pull/3) in [contactBoostTag/contactBoostTag](https://github.com/contactBoostTag/contactBoostTag)
+2. 💪 Opened PR [#3](https://github.com/contactBoostTag/contactBoostTag/pull/3) in [contactBoostTag/contactBoostTag](https://github.com/contactBoostTag/contactBoostTag)
+3. 🎉 Merged PR [#2](https://github.com/contactBoostTag/contactBoostTag/pull/2) in [contactBoostTag/contactBoostTag](https://github.com/contactBoostTag/contactBoostTag)
+4. 💪 Opened PR [#2](https://github.com/contactBoostTag/contactBoostTag/pull/2) in [contactBoostTag/contactBoostTag](https://github.com/contactBoostTag/contactBoostTag)
+5. 🎉 Merged PR [#3](https://github.com/contactBoostTag/MyApplication/pull/3) in [contactBoostTag/MyApplication](https://github.com/contactBoostTag/MyApplication)
 <!--END_SECTION:activity-->
 ---
