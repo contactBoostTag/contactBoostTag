@@ -10,11 +10,11 @@
 <!--START_SECTION:waka-->
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-109-blue)
 
-![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-124862%20lines%20of%20code-blue)
+![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-125296%20lines%20of%20code-blue)
 
 **🐱 My Github Data** 
 
-> 🏆 163 Contributions in the Year 2020
+> 🏆 164 Contributions in the Year 2020
  > 
 > 📦 0 Bytes Used in Github's Storage 
  > 
@@ -69,11 +69,11 @@ No Activity Tracked This Week
 **I Mostly Code in Java** 
 
 ```text
-Java                     28 repos            ████████████████░░░░░░░░░   65.12% 
-Kotlin                   6 repos             ███░░░░░░░░░░░░░░░░░░░░░░   13.95% 
-JavaScript               3 repos             █░░░░░░░░░░░░░░░░░░░░░░░░   6.98% 
-Jupyter Notebook         3 repos             █░░░░░░░░░░░░░░░░░░░░░░░░   6.98% 
-Dart                     1 repo              ░░░░░░░░░░░░░░░░░░░░░░░░░   2.33%
+Java                     28 repos            ████████████████░░░░░░░░░   63.64% 
+Kotlin                   6 repos             ███░░░░░░░░░░░░░░░░░░░░░░   13.64% 
+JavaScript               3 repos             █░░░░░░░░░░░░░░░░░░░░░░░░   6.82% 
+Jupyter Notebook         3 repos             █░░░░░░░░░░░░░░░░░░░░░░░░   6.82% 
+Dart                     2 repos             █░░░░░░░░░░░░░░░░░░░░░░░░   4.55%
 
 ```
 
