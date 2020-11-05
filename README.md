@@ -8,9 +8,9 @@
 
 ---
 <!--START_SECTION:waka-->
-![Profile Views](http://img.shields.io/badge/Profile%20Views-109-blue)
+![Profile Views](http://img.shields.io/badge/Profile%20Views-89-blue)
 
-![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-126146%20lines%20of%20code-blue)
+![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-125348%20lines%20of%20code-blue)
 
 **🐱 My Github Data** 
 
@@ -69,8 +69,8 @@ No Activity Tracked This Week
 **I Mostly Code in Java** 
 
 ```text
-Java                     28 repos            ████████████████░░░░░░░░░   63.64% 
-Kotlin                   6 repos             ███░░░░░░░░░░░░░░░░░░░░░░   13.64% 
+Java                     27 repos            ███████████████░░░░░░░░░░   61.36% 
+Kotlin                   7 repos             ████░░░░░░░░░░░░░░░░░░░░░   15.91% 
 JavaScript               3 repos             █░░░░░░░░░░░░░░░░░░░░░░░░   6.82% 
 Jupyter Notebook         3 repos             █░░░░░░░░░░░░░░░░░░░░░░░░   6.82% 
 Dart                     2 repos             █░░░░░░░░░░░░░░░░░░░░░░░░   4.55%
