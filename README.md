@@ -80,7 +80,7 @@ Dart                     2 repos             █░░░░░░░░░░�
 
 **Timeline**
 
-![Chart not found](https://github.com/contactBoostTag/contactBoostTag/blob/master/charts/bar_graph.png) 
+![Chart not found](https://raw.githubusercontent.com/contactBoostTag/contactBoostTag/master/charts/bar_graph.png) 
 
 
 <!--END_SECTION:waka-->
