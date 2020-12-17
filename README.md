@@ -22,7 +22,7 @@
  > 
 > 📜 7 Public Repositories 
  > 
-7 Private Repository 
+> 🔑 0 Private Repositories  
  > 
 **I'm a Night 🦉** 
 
