@@ -3,7 +3,7 @@
 <p align='center'>
   <a href="#"><img src="https://github-readme-stats.vercel.app/api?username=contactBoostTag&show_icons=true&count_private=true&theme=dark" width="350" height="150"></a>&nbsp;&nbsp;
   <a href="#"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=contactBoostTag&layout=compact&theme=dark" width="350" height="150"></a>
-  
+  <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=romellfudi" alt="romellfudi" /></a>
 </p>
 
 ---
