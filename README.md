@@ -1,8 +1,8 @@
 <!-- https://www.canva.com/folder/all-designs -->
-<p align='center'><img src="https://raw.githubusercontent.com/contactBoostTag/contactBoostTag/master/An%20enthusiastic%20engineer.png" alt="banner" /></p>
+<p align='center'><img src="https://raw.githubusercontent.com/romellfudi/romellfudi/master/An%20enthusiastic%20engineer.png" alt="banner" /></p>
 <p align='center'>
-  <a href="#"><img src="https://github-readme-stats.vercel.app/api?username=contactBoostTag&show_icons=true&count_private=true&theme=dark" width="350" height="150"></a>&nbsp;&nbsp;
-  <a href="#"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=contactBoostTag&layout=compact&theme=dark" width="350" height="150"></a>
+  <a href="#"><img src="https://github-readme-stats.vercel.app/api?username=romellfudi&show_icons=true&count_private=true&theme=dark" width="350" height="150"></a>&nbsp;&nbsp;
+  <a href="#"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=romellfudi&layout=compact&theme=dark" width="350" height="150"></a>
   <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=romellfudi" alt="romellfudi" /></a>
 </p>
 
@@ -80,7 +80,7 @@ Dart                     2 repos             █░░░░░░░░░░�
 
 **Timeline**
 
-![Chart not found](https://raw.githubusercontent.com/contactBoostTag/contactBoostTag/master/charts/bar_graph.png) 
+![Chart not found](https://raw.githubusercontent.com/romellfudi/romellfudi/master/charts/bar_graph.png) 
 
 
 <!--END_SECTION:waka-->
@@ -88,10 +88,10 @@ Dart                     2 repos             █░░░░░░░░░░�
 ### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#4](https://github.com/contactBoostTag/contactBoostTag/pull/4) in [contactBoostTag/contactBoostTag](https://github.com/contactBoostTag/contactBoostTag)
-2. ❌ Reopened PR [#7](https://github.com/contactBoostTag/MyApplication/pull/7) in [contactBoostTag/MyApplication](https://github.com/contactBoostTag/MyApplication)
-3. ❗️ Closed issue [#9](https://github.com/contactBoostTag/MyApplication/issues/9) in [contactBoostTag/MyApplication](https://github.com/contactBoostTag/MyApplication)
-4. ❌ Closed PR [#7](https://github.com/contactBoostTag/MyApplication/pull/7) in [contactBoostTag/MyApplication](https://github.com/contactBoostTag/MyApplication)
-5. ❗️ Closed issue [#8](https://github.com/contactBoostTag/MyApplication/issues/8) in [contactBoostTag/MyApplication](https://github.com/contactBoostTag/MyApplication)
+1. 💪 Opened PR [#4](https://github.com/romellfudi/romellfudi/pull/4) in [romellfudi/romellfudi](https://github.com/romellfudi/romellfudi)
+2. ❌ Reopened PR [#7](https://github.com/romellfudi/MyApplication/pull/7) in [romellfudi/MyApplication](https://github.com/romellfudi/MyApplication)
+3. ❗️ Closed issue [#9](https://github.com/romellfudi/MyApplication/issues/9) in [romellfudi/MyApplication](https://github.com/romellfudi/MyApplication)
+4. ❌ Closed PR [#7](https://github.com/romellfudi/MyApplication/pull/7) in [romellfudi/MyApplication](https://github.com/romellfudi/MyApplication)
+5. ❗️ Closed issue [#8](https://github.com/romellfudi/MyApplication/issues/8) in [romellfudi/MyApplication](https://github.com/romellfudi/MyApplication)
 <!--END_SECTION:activity-->
 ---
